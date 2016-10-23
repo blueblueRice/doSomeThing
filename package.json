@@ -1,0 +1,18 @@
+#package
+
+{
+  "name": "test-webpack",
+  "version": "1.0.0",
+  "author": "blueblueRice",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.16.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-connect": "^5.0.0",
+    "gulp-less": "^3.1.0",
+    "vue": "^2.0.3",
+    "vue-router": "^2.0.1",
+    "webpack-stream": "^3.2.0"
+  }
+}
