@@ -1,0 +1,9 @@
+class Person {
+	constructor(x, y){
+		this.x = x;
+		this.y = y;
+	}
+}
+
+let person = new Person("Tom", 20);
+console.log(person.y);
